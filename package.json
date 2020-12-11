@@ -1,0 +1,12 @@
+{
+  "name": "minesweeper",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "jest --silent"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3",
+    "mock-stdin": "^1.0.0"
+  }
+}
